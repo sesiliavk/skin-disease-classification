@@ -1,0 +1,2 @@
+dataset = https://www.kaggle.com/datasets/amellia/face-skin-disease 
+deployment = https://huggingface.co/spaces/sesiliavk/cv_gc7 
